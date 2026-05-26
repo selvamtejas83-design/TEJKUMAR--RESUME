@@ -119,6 +119,7 @@ a:focus {
     .wrapper .content::before {
         top: 0;
     }
+    
     .wrapper .content::after {
         bottom: 0;
     }
@@ -131,7 +132,7 @@ a:focus {
         float: left;
         overflow: auto;
         scrollbar-width: thin;
-          z-index: 2;
+         z-index: 2;
     }
 
     .wrapper .sidebar:hover {
